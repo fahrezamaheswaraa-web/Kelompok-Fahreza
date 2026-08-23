@@ -60,7 +60,7 @@
 
   <!-- Content Wrapper. Tempat Isi Konten Dinamis -->
   <div class="content-wrapper">
-    @yield('konten')
+    @yield('content')
   </div>
   <!-- /.content-wrapper -->
 

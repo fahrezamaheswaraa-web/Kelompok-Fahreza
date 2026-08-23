@@ -32,3 +32,10 @@ Route::get('/chart', function () {
     return view('template.chart');
 })->name('chart.page');
 
+Route::get('/', function () {
+    return view('template.index');
+});
+
+Route::get('/register', function () {
+    return view('template.register');
+});

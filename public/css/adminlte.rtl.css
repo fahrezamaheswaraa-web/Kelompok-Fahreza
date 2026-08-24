@@ -1,10 +1,7 @@
 @charset "UTF-8";
 /*!
-<<<<<<< HEAD
  *   AdminLTE v4.2.0
-=======
  *   AdminLTE v4.8.5
->>>>>>> 7d9a0063dcc08e55351ad613fcb2f2512dd98ab7
  *   Author: Colorlib
  *   Website: AdminLTE.io <https://adminlte.io>
  *   License: Open source - MIT <https://opensource.org/licenses/MIT>
@@ -12827,8 +12824,6 @@ textarea.form-control-lg {
   position: relative;
   height: 2.5rem;
 }
-<<<<<<< HEAD
-=======
 @media (max-width: 575.98px) {
   .app-header {
     --bs-navbar-nav-link-padding-x: 0.5rem;
@@ -12913,7 +12908,6 @@ textarea.form-control-lg {
   outline: 2px solid var(--bs-focus-ring-color);
   outline-offset: 2px;
 }
->>>>>>> 7d9a0063dcc08e55351ad613fcb2f2512dd98ab7
 
 .navbar-badge {
   position: absolute;
@@ -12936,10 +12930,7 @@ textarea.form-control-lg {
     max-height: 100vh;
   }
   .fixed-header.sidebar-expand-sm .app-sidebar .sidebar-wrapper {
-<<<<<<< HEAD
     height: calc(100vh - (calc(3.5rem + 1px)));
-=======
->>>>>>> 7d9a0063dcc08e55351ad613fcb2f2512dd98ab7
     overflow-x: hidden;
     overflow-y: auto;
   }
@@ -12951,10 +12942,7 @@ textarea.form-control-lg {
     max-height: 100vh;
   }
   .fixed-header.sidebar-expand-md .app-sidebar .sidebar-wrapper {
-<<<<<<< HEAD
     height: calc(100vh - (calc(3.5rem + 1px)));
-=======
->>>>>>> 7d9a0063dcc08e55351ad613fcb2f2512dd98ab7
     overflow-x: hidden;
     overflow-y: auto;
   }
@@ -12966,10 +12954,7 @@ textarea.form-control-lg {
     max-height: 100vh;
   }
   .fixed-header.sidebar-expand-lg .app-sidebar .sidebar-wrapper {
-<<<<<<< HEAD
     height: calc(100vh - (calc(3.5rem + 1px)));
-=======
->>>>>>> 7d9a0063dcc08e55351ad613fcb2f2512dd98ab7
     overflow-x: hidden;
     overflow-y: auto;
   }
@@ -12981,10 +12966,7 @@ textarea.form-control-lg {
     max-height: 100vh;
   }
   .fixed-header.sidebar-expand-xl .app-sidebar .sidebar-wrapper {
-<<<<<<< HEAD
     height: calc(100vh - (calc(3.5rem + 1px)));
-=======
->>>>>>> 7d9a0063dcc08e55351ad613fcb2f2512dd98ab7
     overflow-x: hidden;
     overflow-y: auto;
   }
@@ -12996,10 +12978,7 @@ textarea.form-control-lg {
     max-height: 100vh;
   }
   .fixed-header.sidebar-expand-xxl .app-sidebar .sidebar-wrapper {
-<<<<<<< HEAD
     height: calc(100vh - (calc(3.5rem + 1px)));
-=======
->>>>>>> 7d9a0063dcc08e55351ad613fcb2f2512dd98ab7
     overflow-x: hidden;
     overflow-y: auto;
   }
@@ -13010,10 +12989,7 @@ textarea.form-control-lg {
   max-height: 100vh;
 }
 .fixed-header.sidebar-expand .app-sidebar .sidebar-wrapper {
-<<<<<<< HEAD
   height: calc(100vh - (calc(3.5rem + 1px)));
-=======
->>>>>>> 7d9a0063dcc08e55351ad613fcb2f2512dd98ab7
   overflow-x: hidden;
   overflow-y: auto;
 }
@@ -13033,11 +13009,8 @@ textarea.form-control-lg {
   --lte-sidebar-submenu-active-bg: rgba(0, 0, 0, 0.1);
   --lte-sidebar-header-color: rgb(19.3725490196%, 21.6078431373%, 23.8431372549%);
   z-index: 1038;
-<<<<<<< HEAD
-=======
   display: flex;
   flex-direction: column;
->>>>>>> 7d9a0063dcc08e55351ad613fcb2f2512dd98ab7
   grid-area: lte-app-sidebar;
   min-width: var(--lte-sidebar-width);
   max-width: var(--lte-sidebar-width);
@@ -13051,10 +13024,7 @@ textarea.form-control-lg {
 
 .sidebar-brand {
   display: flex;
-<<<<<<< HEAD
-=======
   flex: 0 0 auto;
->>>>>>> 7d9a0063dcc08e55351ad613fcb2f2512dd98ab7
   align-items: center;
   justify-content: center;
   height: 3.5rem;
@@ -13111,11 +13081,8 @@ textarea.form-control-lg {
 }
 
 .sidebar-wrapper {
-<<<<<<< HEAD
-=======
   flex: 1 1 auto;
   min-height: 0;
->>>>>>> 7d9a0063dcc08e55351ad613fcb2f2512dd98ab7
   padding-top: 0.5rem;
   padding-left: 0.5rem;
   padding-bottom: 0.5rem;
@@ -13314,8 +13281,6 @@ textarea.form-control-lg {
   white-space: nowrap;
 }
 
-<<<<<<< HEAD
-=======
 .sidebar-search {
   flex: 0 0 auto;
   padding: 0.5rem 1rem;
@@ -13357,7 +13322,6 @@ textarea.form-control-lg {
   box-shadow: var(--lte-search-field-focus-ring);
 }
 
->>>>>>> 7d9a0063dcc08e55351ad613fcb2f2512dd98ab7
 .logo-xs,
 .logo-xl {
   position: absolute;
@@ -13395,12 +13359,9 @@ textarea.form-control-lg {
 .sidebar-mini.sidebar-collapse .sidebar-menu .nav-header {
   display: none;
 }
-<<<<<<< HEAD
-=======
 .sidebar-mini.sidebar-collapse .app-sidebar:not(:hover) .sidebar-search {
   display: none;
 }
->>>>>>> 7d9a0063dcc08e55351ad613fcb2f2512dd98ab7
 .sidebar-mini.sidebar-collapse .sidebar-menu .nav-link {
   width: 3.6rem;
 }
@@ -13511,10 +13472,7 @@ textarea.form-control-lg {
     max-height: 100vh;
   }
   .sidebar-expand-sm.layout-fixed .app-sidebar .sidebar-wrapper {
-<<<<<<< HEAD
     height: calc(100vh - (calc(3.5rem + 1px)));
-=======
->>>>>>> 7d9a0063dcc08e55351ad613fcb2f2512dd98ab7
     overflow-x: hidden;
     overflow-y: auto;
   }
@@ -13546,10 +13504,7 @@ textarea.form-control-lg {
     margin-right: calc(var(--lte-sidebar-width) * -1);
   }
   .sidebar-expand-sm .app-sidebar .sidebar-wrapper {
-<<<<<<< HEAD
     height: calc(100vh - (calc(3.5rem + 1px)));
-=======
->>>>>>> 7d9a0063dcc08e55351ad613fcb2f2512dd98ab7
     overflow-x: hidden;
     overflow-y: auto;
   }
@@ -13592,10 +13547,7 @@ textarea.form-control-lg {
     max-height: 100vh;
   }
   .sidebar-expand-md.layout-fixed .app-sidebar .sidebar-wrapper {
-<<<<<<< HEAD
     height: calc(100vh - (calc(3.5rem + 1px)));
-=======
->>>>>>> 7d9a0063dcc08e55351ad613fcb2f2512dd98ab7
     overflow-x: hidden;
     overflow-y: auto;
   }
@@ -13627,10 +13579,7 @@ textarea.form-control-lg {
     margin-right: calc(var(--lte-sidebar-width) * -1);
   }
   .sidebar-expand-md .app-sidebar .sidebar-wrapper {
-<<<<<<< HEAD
     height: calc(100vh - (calc(3.5rem + 1px)));
-=======
->>>>>>> 7d9a0063dcc08e55351ad613fcb2f2512dd98ab7
     overflow-x: hidden;
     overflow-y: auto;
   }
@@ -13673,10 +13622,7 @@ textarea.form-control-lg {
     max-height: 100vh;
   }
   .sidebar-expand-lg.layout-fixed .app-sidebar .sidebar-wrapper {
-<<<<<<< HEAD
     height: calc(100vh - (calc(3.5rem + 1px)));
-=======
->>>>>>> 7d9a0063dcc08e55351ad613fcb2f2512dd98ab7
     overflow-x: hidden;
     overflow-y: auto;
   }
@@ -13708,10 +13654,7 @@ textarea.form-control-lg {
     margin-right: calc(var(--lte-sidebar-width) * -1);
   }
   .sidebar-expand-lg .app-sidebar .sidebar-wrapper {
-<<<<<<< HEAD
     height: calc(100vh - (calc(3.5rem + 1px)));
-=======
->>>>>>> 7d9a0063dcc08e55351ad613fcb2f2512dd98ab7
     overflow-x: hidden;
     overflow-y: auto;
   }
@@ -13754,10 +13697,7 @@ textarea.form-control-lg {
     max-height: 100vh;
   }
   .sidebar-expand-xl.layout-fixed .app-sidebar .sidebar-wrapper {
-<<<<<<< HEAD
     height: calc(100vh - (calc(3.5rem + 1px)));
-=======
->>>>>>> 7d9a0063dcc08e55351ad613fcb2f2512dd98ab7
     overflow-x: hidden;
     overflow-y: auto;
   }
@@ -13789,10 +13729,7 @@ textarea.form-control-lg {
     margin-right: calc(var(--lte-sidebar-width) * -1);
   }
   .sidebar-expand-xl .app-sidebar .sidebar-wrapper {
-<<<<<<< HEAD
     height: calc(100vh - (calc(3.5rem + 1px)));
-=======
->>>>>>> 7d9a0063dcc08e55351ad613fcb2f2512dd98ab7
     overflow-x: hidden;
     overflow-y: auto;
   }
@@ -13835,10 +13772,7 @@ textarea.form-control-lg {
     max-height: 100vh;
   }
   .sidebar-expand-xxl.layout-fixed .app-sidebar .sidebar-wrapper {
-<<<<<<< HEAD
     height: calc(100vh - (calc(3.5rem + 1px)));
-=======
->>>>>>> 7d9a0063dcc08e55351ad613fcb2f2512dd98ab7
     overflow-x: hidden;
     overflow-y: auto;
   }
@@ -13870,10 +13804,7 @@ textarea.form-control-lg {
     margin-right: calc(var(--lte-sidebar-width) * -1);
   }
   .sidebar-expand-xxl .app-sidebar .sidebar-wrapper {
-<<<<<<< HEAD
     height: calc(100vh - (calc(3.5rem + 1px)));
-=======
->>>>>>> 7d9a0063dcc08e55351ad613fcb2f2512dd98ab7
     overflow-x: hidden;
     overflow-y: auto;
   }
@@ -13915,10 +13846,7 @@ textarea.form-control-lg {
   max-height: 100vh;
 }
 .sidebar-expand.layout-fixed .app-sidebar .sidebar-wrapper {
-<<<<<<< HEAD
   height: calc(100vh - (calc(3.5rem + 1px)));
-=======
->>>>>>> 7d9a0063dcc08e55351ad613fcb2f2512dd98ab7
   overflow-x: hidden;
   overflow-y: auto;
 }
@@ -13948,10 +13876,7 @@ textarea.form-control-lg {
   margin-right: calc(var(--lte-sidebar-width) * -1);
 }
 .sidebar-expand .app-sidebar .sidebar-wrapper {
-<<<<<<< HEAD
   height: calc(100vh - (calc(3.5rem + 1px)));
-=======
->>>>>>> 7d9a0063dcc08e55351ad613fcb2f2512dd98ab7
   overflow-x: hidden;
   overflow-y: auto;
 }
@@ -15435,8 +15360,6 @@ html.maximized-card {
 [data-bs-theme=dark] .toast-light .btn-close {
   --bs-btn-close-white-filter: none;
 }
-<<<<<<< HEAD
-=======
 .ribbon-wrapper {
   --lte-ribbon-size: 70px;
   --lte-ribbon-width: 91px;
@@ -15631,7 +15554,6 @@ html.maximized-card {
   font-size: 1rem;
 }
 
->>>>>>> 7d9a0063dcc08e55351ad613fcb2f2512dd98ab7
 .login-logo,
 .register-logo {
   margin-bottom: 0.9rem;
@@ -15825,15 +15747,12 @@ html.maximized-card {
   outline-offset: 2px;
 }
 .skip-link:hover {
-<<<<<<< HEAD
   color: var(--bs-white);
   text-decoration: none;
   background: var(--bs-primary-emphasis);
-=======
   color: var(--bs-body-bg);
   text-decoration: none;
   background: var(--bs-primary-text-emphasis);
->>>>>>> 7d9a0063dcc08e55351ad613fcb2f2512dd98ab7
 }
 
 /* Enhanced Focus Indicators - WCAG 2.4.7: Focus Visible */
@@ -16056,21 +15975,16 @@ fieldset legend {
   .nav-link {
     color: #000 !important;
     background: transparent !important;
-<<<<<<< HEAD
-=======
   }
   .btn {
->>>>>>> 7d9a0063dcc08e55351ad613fcb2f2512dd98ab7
     border: 1px solid #000 !important;
   }
   a[href^=http]::after {
     font-size: 0.8em;
     content: " (" attr(href) ")";
   }
-<<<<<<< HEAD
   /* Print Layout Fix - Ensure sidebar and main content are both visible */
   .app-wrapper {
-=======
   [data-lte-print=plain] a[href^=http]::after {
     content: none;
   }
@@ -16082,7 +15996,6 @@ fieldset legend {
      print display utilities keep working: these are defaults for the standard
      layout, not something a page should have to fight to hide. */
   .app-wrapper:not(.d-print-none) {
->>>>>>> 7d9a0063dcc08e55351ad613fcb2f2512dd98ab7
     display: grid !important;
     grid-template-rows: auto 1fr auto !important;
     grid-template-columns: auto 1fr !important;
@@ -16090,11 +16003,8 @@ fieldset legend {
   .sidebar-overlay {
     display: none !important;
   }
-<<<<<<< HEAD
   .app-sidebar {
-=======
   .app-sidebar:not(.d-print-none) {
->>>>>>> 7d9a0063dcc08e55351ad613fcb2f2512dd98ab7
     position: static !important;
     display: block !important;
     min-width: 200px !important;

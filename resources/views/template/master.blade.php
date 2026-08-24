@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <!doctype html>
 <html lang="en">
 <head>
@@ -1891,7 +1890,6 @@
 
 </script>
 
-=======
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -1975,6 +1973,5 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
 <!-- AdminLTE App -->
 <script src="https://cdn.jsdelivr.net/npm/admin-lte@3.2/dist/js/adminlte.min.js"></script>
->>>>>>> 7d9a0063dcc08e55351ad613fcb2f2512dd98ab7
 </body>
 </html>

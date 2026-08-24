@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <?php
 
 use Illuminate\Support\Facades\Route;
@@ -6,7 +5,6 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('index');
 });
-=======
 <!doctype html>
 <html lang="en">
   <!--begin::Head-->
@@ -221,4 +219,3 @@ Route::get('/', function () {
   </body>
   <!--RRend::Body-->
 </html>
->>>>>>> 7d9a0063dcc08e55351ad613fcb2f2512dd98ab7

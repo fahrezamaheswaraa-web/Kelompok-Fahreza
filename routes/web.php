@@ -39,3 +39,6 @@ Route::get('/', function () {
 Route::get('/register', function () {
     return view('template.register');
 });
+Route::get('/widget', function () {
+    return view('template.widget');
+});

@@ -29,6 +29,11 @@ return [
     | Supported drivers: "array", "database", "file", "memcached",
     |                    "redis", "dynamodb", "storage", "octane",
     |                    "session", "failover", "null"
+<<<<<<< HEAD
+=======
+    |                    "redis", "dynamodb", "octane",
+    |                    "failover", "null"
+>>>>>>> e780b75938bdb7c947065f0b72d9602f3cf63728
     |
     */
 

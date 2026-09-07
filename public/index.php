@@ -18,3 +18,12 @@ require __DIR__.'/../vendor/autoload.php';
 $app = require_once __DIR__.'/../bootstrap/app.php';
 
 $app->handleRequest(Request::capture());
+<<<<<<< HEAD
+=======
+// Register the Auto Loader...
+require __DIR__.'/../vendor/autoload.php';
+
+// Bootstrap Laravel and handle the request...
+(require_once __DIR__.'/../bootstrap/app.php')
+    ->handleRequest(Request::capture());
+>>>>>>> e780b75938bdb7c947065f0b72d9602f3cf63728

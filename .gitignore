@@ -7,6 +7,10 @@
 .phpunit.result.cache
 /.codex
 /.cursor/
+<<<<<<< HEAD
+=======
+/.fleet
+>>>>>>> e780b75938bdb7c947065f0b72d9602f3cf63728
 /.idea
 /.nova
 /.phpunit.cache
@@ -25,3 +29,8 @@ _ide_helper.php
 Homestead.json
 Homestead.yaml
 Thumbs.db
+<<<<<<< HEAD
+=======
+
+database/database.sqlite
+>>>>>>> e780b75938bdb7c947065f0b72d9602f3cf63728

@@ -8,3 +8,9 @@ import PushMenu from './push-menu.js';
 import ColorMode from './color-mode.js';
 import { initAccessibility } from './accessibility.js';
 export { Layout, CardWidget, Treeview, DirectChat, FullScreen, PushMenu, ColorMode, initAccessibility, initialize, teardown };
+<<<<<<< HEAD
+=======
+import SidebarSearch from './sidebar-search.js';
+import { initAccessibility } from './accessibility.js';
+export { Layout, CardWidget, Treeview, DirectChat, FullScreen, PushMenu, ColorMode, SidebarSearch, initAccessibility, initialize, teardown };
+>>>>>>> e780b75938bdb7c947065f0b72d9602f3cf63728

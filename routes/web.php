@@ -28,3 +28,8 @@ Route::get('/forms/editors', function () {
 Route::get('/forms/validation', function () {
     return view('forms.validation');
 });
+use App\Http\Controllers\PeranController;
+
+Route::get('/peran', [PeranController::class, 'index'])->name('peran.index');
+Route::get('/peran/create', [PeranController::class, 'create'])->name('peran.create');
+Route::post('/peran', [PeranController::class, 'store'])->name('peran.store');
